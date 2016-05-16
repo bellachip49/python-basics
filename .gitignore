@@ -1,2 +1,4 @@
 .idea/
 basics.iml
+.gitignore.swp
+calculator/__pycache__/
